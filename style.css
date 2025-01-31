@@ -14,8 +14,50 @@
     padding:9px 25px ;
     color: #fff;
     cursor: pointer;
-    text-decoration: none;}
+    border: none;
+}
  .container{
     margin-bottom:100px ;
- }   
+ }
+ .cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 9px;
+    
+ }
+ .cat1{
+    background-color:orange ;
+ 
+ }
+ .cat2{
+    background-color:orchid ;
+ }
+ .cat3{
+    background-color:blue ;
+ }
+ .categorires h1{
+    color: white;
+    border-radius: 5px;
+ }
+ .categorires img{
+   width: 100px;   
+} 
+.card{
+   border: none;
+   box-shadow: 5px 5px 10px lightgray;
+   
+}
+.card-footer{
+   color:white;
+   border-top: none;
+}
+#subscribe{
+   height: 300px;
+}
+#subscribe h6{
+color: dimgray;
+}
+footer{
+   text-align: center;
+
+}         
     
